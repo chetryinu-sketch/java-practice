@@ -39,7 +39,7 @@ public class Student{
         S1.name="Inu Chetry";
         S1.course="Btech";
         S1.m1=90;
-        S1.m2=100;
+        S1.m2=100; 
         S1.m3=99;
 
         System.out.println("Details:\n"+S1.details());
